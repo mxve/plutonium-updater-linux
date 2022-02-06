@@ -8,6 +8,11 @@
 
 ![screenshot](https://screen.sbs/i/xbmyrmbx.png)
 
+## Requirements
+- jq
+- wget
+- bash
+
 ## Usage
 - Download
   - ```wget https://raw.githubusercontent.com/mxve/plutonium-updater-linux/master/plutonium.sh```
