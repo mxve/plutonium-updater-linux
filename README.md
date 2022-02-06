@@ -1,6 +1,6 @@
 # Plutonium updater
 #### Stop uploading, start downloading
-######(So catchy!)
+###### (So catchy!)
 
 ## Features
 - Version checking
