@@ -1,4 +1,6 @@
 # Plutonium updater
+#### Stop uploading, start downloading
+######(So catchy!)
 
 ## Features
 - Version checking
@@ -7,7 +9,12 @@
 ![screenshot](https://screen.sbs/i/xbmyrmbx.png)
 
 ## Usage
-```./plutonium.sh```
+- Download
+  - ```wget https://raw.githubusercontent.com/mxve/plutonium-updater-linux/master/plutonium.sh```
+- Make executable
+  - ```chmod +x plutonium.sh```
+- Run
+  - ```./plutonium.sh```
 
 #### Arguments:
 - ```-d <path>```
