@@ -1,3 +1,9 @@
+# Consider using the [Rust rewrite](https://github.com/mxve/plutonium-updater.rs)
+- 25x faster file hash checking
+- Linux and Windows support
+
+---
+
 # Plutonium updater
 #### Stop uploading, start downloading
 ###### (So catchy!)
